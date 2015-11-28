@@ -1,0 +1,1 @@
+A number of generic views (such as a list view and a detail view) have been provided, more details on these later :-)
